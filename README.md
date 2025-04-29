@@ -6,10 +6,10 @@ Frontend Developer
 
 I'm a Frontend Software Engineer passionate about developing websites with great user experiences.
 
-* 🖥️  See my portfolio at [https://benjaminbatres.github.io/Portfolio/](http://benjaminbatres.github.io/Portfolio/)
+* 🖥️  See my portfolio at [https://portfolio-ben-five.vercel.app/](http://portfolio-ben-five.vercel.app/)
 * ✉️  You can contact me at [benbatres1212@gmail.com](mailto:benbatres1212@gmail.com)
 * 🚀  I'm currently working on my website [BensWebCreations](http://benswebCreations.com)
-* 🧠  I'm learning everything to do with Web Developing
+* 🧠  I'm learning everything to do with Web Development
 
 ### Skills
 
