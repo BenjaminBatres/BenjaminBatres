@@ -8,7 +8,7 @@ I'm a Frontend Software Engineer passionate about developing websites with great
 
 * 🖥️  See my portfolio at https://benjaminbatres.dev
 * ✉️  You can contact me at [me@benjaminbatres.dev](mailto:me@benjaminbatres.dev)
-* 🚀  I'm currently working on my website [Benjamin Batres](https://up-work-portfolio-6fk6.vercel.app/)
+* 🚀  I'm currently working on my website [Batreswebdesign](https://up-work-portfolio-6fk6.vercel.app/)
 * 🧠  I'm learning everything to do with Web Development
 
 ### Skills
